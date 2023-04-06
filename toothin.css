@@ -42,7 +42,7 @@ body {
 }
 .nav-cont .input-search input {
     width: 100%;
-    background-image: url(img/icon-sa-4.png);
+    background-image: url(./icon-sa-4.png);
     background-repeat: no-repeat;
     background-position:99%;
     background-size: 15px;
@@ -162,7 +162,7 @@ a {
     margin: 50px 0;
     padding: 50px;
     text-align: center;
-    background:url(img/blue.jpg), linear-gradient(to left, #00204a, #005792);
+    background:url(./blue.jpg), linear-gradient(to left, #00204a, #005792);
     background-repeat: no-repeat;
     background-position: center;
     border-radius: 20px;
